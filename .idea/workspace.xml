@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1f03b7-398e-4f23-abee-d266ff4182d5" name="Changes" comment="Assignment Complete">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CIS3515Assignment0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Circle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dimensionable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EquilateralTriangle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Shape.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Square.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Triangle.kt" afterDir="false" />
-    </list>
+    <list default="true" id="ef1f03b7-398e-4f23-abee-d266ff4182d5" name="Changes" comment="Assignment Complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +43,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -74,8 +55,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694393557062</updated>
-      <workItem from="1694393558327" duration="3701000" />
+      <workItem from="1694393558327" duration="3884000" />
     </task>
+    <task id="LOCAL-00001" summary="Assignment Complete">
+      <created>1694397331455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694397331455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
